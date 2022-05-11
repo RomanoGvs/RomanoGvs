@@ -1,5 +1,5 @@
 # 𝕐𝕠𝕦 𝕒𝕣𝕖 𝕧𝕚𝕤𝕚𝕥𝕠𝕣: ![Visitor Count](https://profile-counter.glitch.me/{RomanoGvs}/count.svg)
-##  Hello Dev, you found me! 🕵️‍♂️
+##  Hello Dev, you found me 🕵️‍♂️
 ## It's Romano here!
 ### 𝑺𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝑺𝒕𝒖𝒅𝒊𝒆𝒔 🎯
 - 📚 I'm studying Analysis and Systems Development at PUCPR.
