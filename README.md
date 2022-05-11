@@ -2,7 +2,7 @@
 ##  Hello Dev, you found me! 🕵️‍♂️
 ## It's Romano here!
 ### 𝑺𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝑺𝒕𝒖𝒅𝒊𝒆𝒔 🎯
-- 📚 I'm studying Systems Analysis and Development at PUCPR.
+- 📚 I'm studying Analysis and Systems Development at PUCPR.
 - ✍️ I’m currently learning :
 -   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="30" height="30"/>  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
 
