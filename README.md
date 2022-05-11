@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/98185204/167951645-ab142cbf-c792-41b1-a700-7387d2f55a7b.png)
+
 # 𝕐𝕠𝕦 𝕒𝕣𝕖 𝕧𝕚𝕤𝕚𝕥𝕠𝕣: ![Visitor Count](https://profile-counter.glitch.me/{RomanoGvs}/count.svg)
 ##  Hello Dev, you found me 🕵️‍♂️
 ## It's Romano here!
