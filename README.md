@@ -23,12 +23,7 @@
 ### 𝑭𝒐𝒍𝒍𝒐𝒘 𝒎𝒆 𝒐𝒏 𝒕𝒉𝒆 𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎 📸
 <div>
 <a href="https://instagram.com/billancciere/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-### 𝑶𝒓 𝒋𝒖𝒔𝒕 𝒔𝒆𝒏𝒅 𝒎𝒆 𝒂 "𝑯𝒆𝒍𝒍𝒐" 𝒐𝒏 𝒎𝒚 𝒆𝒎𝒂𝒊𝒍
-  
-<a href = "mailto:gknust0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-          
+
           
           
   
