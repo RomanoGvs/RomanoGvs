@@ -4,8 +4,7 @@
 ### 𝑺𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝑺𝒕𝒖𝒅𝒊𝒆𝒔 🎯
 - 📚 I'm studying Analysis and Systems Development at PUCPR.
 - ✍️ I’m currently learning :
--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="30" height="30"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25"/>
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" widht="30" height="30"/>
 
