@@ -20,7 +20,6 @@
 - 🌎 I live in Brazil with my dog, her name is Jully (you can see some pictures of us on my instagram).
 - 👨‍🍳 In my free time, I love to cook Italian food.
 - 🔱 I'm a gym rat. Passionate about Bodybuilding and Powerlifting stuff.
-- 🕹️ I love the retro aesthetic and old school stuff, mostly games.
 
 ## 𝑳𝒆𝒕'𝒔 𝒃𝒆 𝒇𝒓𝒊𝒆𝒏𝒅𝒔 🤝
 ### 𝑭𝒐𝒍𝒍𝒐𝒘 𝒎𝒆 𝒐𝒏 𝒕𝒉𝒆 𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎 📸
