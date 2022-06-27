@@ -5,7 +5,6 @@
 - 📚 I'm studying Analysis and Systems Development at PUCPR.
 - ✍️ I’m currently learning :
 -   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" widht="30" height="30"/>
 
 - 🔓 I have experience with:
