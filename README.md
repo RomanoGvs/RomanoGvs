@@ -13,7 +13,7 @@
 
 - 💭 I'm a very communicative guy, interested in learning.
 - 👨‍🎨 Skills in creating screens and Front-end activities.
-- 👾 Passionate about technology and teamwork.
+- 👾 Passionate about and teamwork.
 
 ### 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
 - 🌎 I live in Brazil with my dog, her name is Jully (you can see some pictures of us on my instagram).
